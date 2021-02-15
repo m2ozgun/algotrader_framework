@@ -136,3 +136,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/venv/
+/TA_Lib-0.4.19-cp39-cp39-win_amd64.whl

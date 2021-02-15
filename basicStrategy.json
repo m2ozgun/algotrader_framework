@@ -1,0 +1,23 @@
+{
+  "account_currency": "USD",
+  "strategy_name": "basic_strategy",
+  "pairs": [
+    "EURUSD",
+    "USDCAD",
+    "GBPUSD"
+  ],
+  "risk" : 2,
+  "take_profit": 700.0,
+  "stop_loss": 300.0,
+  "moving_averages": {
+    "SMA": {
+      "val": 10,
+      "above_below": "below"
+    },
+    "EMA": {
+      "val": 50,
+      "above_below": "above"
+    }
+  },
+  "max_losses" : 3
+}
