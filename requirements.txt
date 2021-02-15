@@ -1,0 +1,5 @@
+MetaTrader5~=5.0.34
+schedule~=1.0.0
+pandas~=1.2.2
+pytz~=2021.1
+forex_python
